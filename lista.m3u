@@ -5,7 +5,8 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="TV en Vivo",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",A Mas 
+#EXTINF:-1 group-title="TV en Vivo",A Mas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0...
 https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/67da4856560cceb29bbd014c/linear/hls/pa/event/fm7PAdwcScebPPp4MmpIWw/stream/b37b5d34-c32a-4b15-8570-e6f3cbafeef1:DLS/master.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&dual_render=1&access_token=T4IaCeUlJyjCgKjmelB5JCMUzLkjNV3pbw4WpxffCMQgRoXbbGHFz6X8CUH4xJmAxa9ALisEdMa&uid=71FhvrtjPCYzbSkhXduBuCWymv2D9vp7&sid=NqpySvqJAGlovzjBqL0oVUG5CyW3HSby&pid=WiqmrIwJgi1r3xsykSO09WGuhGrJaFed&ref=envivo.tvazteca.com&ext_pb=0&CMCD=cid%3D%2267da4856560cceb29bbd014c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22WiqmrIwJgi1r3xsykSO09WGuhGrJaFed%22%2Csu&adInsertionGoogleStreamId=b37b5d34-c32a-4b15-8570-e6f3cbafeef1%3ADLS&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1795580443812&ot=kJBQD96Q5AXcf1GZBvsF_w&proto=https&pz=us
 
 #EXTINF:-1 group-title="TV en Vivo",
