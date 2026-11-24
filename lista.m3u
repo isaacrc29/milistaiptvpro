@@ -1,6 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV en Vivo",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="TV en Vivo",8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",15TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",A Mas 
+https://mdstrm.com/live-stream-playlist/6ae17429674991fa8726a7be.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Radios" radio="true",Radio Nacional de España
 https://rnelivestream.rtve.es/rneradio1/rne1_main.m3u8
