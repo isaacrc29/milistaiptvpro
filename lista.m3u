@@ -5,9 +5,119 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="TV en Vivo",15TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",A Mas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0...
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/67da4856560cceb29bbd014c/linear/hls/pa/event/fm7PAdwcScebPPp4MmpIWw/stream/b37b5d34-c32a-4b15-8570-e6f3cbafeef1:DLS/master.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&dual_render=1&access_token=T4IaCeUlJyjCgKjmelB5JCMUzLkjNV3pbw4WpxffCMQgRoXbbGHFz6X8CUH4xJmAxa9ALisEdMa&uid=71FhvrtjPCYzbSkhXduBuCWymv2D9vp7&sid=NqpySvqJAGlovzjBqL0oVUG5CyW3HSby&pid=WiqmrIwJgi1r3xsykSO09WGuhGrJaFed&ref=envivo.tvazteca.com&ext_pb=0&CMCD=cid%3D%2267da4856560cceb29bbd014c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22WiqmrIwJgi1r3xsykSO09WGuhGrJaFed%22%2Csu&adInsertionGoogleStreamId=b37b5d34-c32a-4b15-8570-e6f3cbafeef1%3ADLS&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1795580443812&ot=kJBQD96Q5AXcf1GZBvsF_w&proto=https&pz=us
+#EXTINF:-1 group-title="TV en Vivo",AlcanceTV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",MXN Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Aprende TV
+https://stream.aprende.gob.mx/live/hls/index.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",B15
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Cozumel
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 26
+https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 33
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Del Congreso
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Del Congreso 2
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787er_adaptive.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Del Congreso 3
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf52_adaptive.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Capital 21
+https://video.cdmx.gob.mx/hls/stream.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Claro Sports
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",ConectaTv
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",El Chavo
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",AYM Sports
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",JaliscoTv
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",JusticiaTv
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",LoboTv
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 34 Mexiquense Tv
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Milenio tv
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",MVS Noticias
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",My Time Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",videonuevetv
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Once
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Once 
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",
 
 #EXTINF:-1 group-title="TV en Vivo",
 
