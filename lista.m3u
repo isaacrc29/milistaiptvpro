@@ -87,7 +87,15 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 #EXTINF:-1 group-title="TV en Vivo",Canal Once
+https://stream.streamblue.com.mx/live/canal2/master.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",
+
+#EXTINF:-1 group-title="TV en Vivo",Canal 11.3 
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+
+#EXTINF:-1 group-title="TV en Vivo",Canal Once Internacional
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 #EXTINF:-1 group-title="TV en Vivo",C B T V
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
@@ -614,25 +622,35 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 group-title="TV en Vivo",Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",EstrellaTV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",FOX
+https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Pelimex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Teleclasica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Telediario Now
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Frecuencia ME
+https://capomo01-enitv.eninetworks.com/qro_femenil_vbmedia_publico/video.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",World Poker Tour
+https://amg00218-amg00218c2-canelatv-international-5827.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Television Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 group-title="TV en Vivo",
+#EXTINF:-1 group-title="TV en Vivo",Canal 14
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 group-title="TV en Vivo",
 
